@@ -15,3 +15,11 @@
 ### Criar estrutura HTML5 e estilização via CSS3. Aplicado um efeito "hover" em cada ícone.
 
 ![hovermenunavbar](https://user-images.githubusercontent.com/115199808/216794545-979f96c4-c372-4907-98a9-a8b1fef20749.gif)
+
+<hr>
+
+## Parte 2 - Funcionalidade dos botões
+
+### Criar funcionalidade com JavaScript.
+
+![funcionalidadenavbar](https://user-images.githubusercontent.com/115199808/216794629-0371566f-0782-4698-8cca-fffe2a88c68c.gif)

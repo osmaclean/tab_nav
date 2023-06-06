@@ -1,13 +1,17 @@
 
+(function () {
+    'use strict'
+    
+    let lista = document.querySelectorAll(".lista");
 
-let lista = document.querySelectorAll(".lista");
+    function ativacaoLink () {
+        lista.forEach((item) =>
+        item.classList.remove('active'));
+        this.classList.add("active");
 
-function ativacaoLink () {
-    lista.forEach((item) =>
-    item.classList.remove('active'));
-    this.classList.add("active");
+    }
 
-}
-
-lista.forEach((item) => 
-item.addEventListener('click', ativacaoLink))
+    lista.forEach((item) => 
+    item.addEventListener('click', ativacaoLink))
+    
+})();
